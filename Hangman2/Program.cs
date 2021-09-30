@@ -6,7 +6,8 @@ namespace Hangman2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Declare and intialize variables
+
         }    
     }
 }
