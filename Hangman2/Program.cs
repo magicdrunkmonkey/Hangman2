@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace Hangman2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+
+        static void GuessWithAWord()
+        {
+
+        }
+
+        static void GuessWithALetter()
+        {
+
+        }
+    }
+}
